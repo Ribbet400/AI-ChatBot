@@ -55,7 +55,7 @@
       "tag": "Location",
       "patterns": [ "Where is MCS?", "where is MCS located", "Where?" ],
       "reponses": [ "MCS is in Oxford at the postcode OX41DZ", "MCS is located ion Oxford at the postcode OX41DZ", "MCS is situated in Oxford at the postcode OX41DZ" ]
-    }
+    },
 
     {
       "tag": "years",
